@@ -14,6 +14,8 @@ public class Demo1 {
 		driver.get("http://www.google.com");
 		Thread.sleep(1000);
 		System.out.println(driver.getTitle());
+		System.out.println(" configure");
+		System.out.println(" configure");
 		System.out.println(driver.getCurrentUrl());
 		//driver.close();
 	}

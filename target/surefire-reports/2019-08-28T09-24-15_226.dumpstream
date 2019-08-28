@@ -1,0 +1,4 @@
+# Created at 2019-08-28T09:24:18.224
+Boot Manifest-JAR contains absolute paths in classpath 'D:\QCCM9\Pintar\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
